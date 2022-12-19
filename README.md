@@ -1,12 +1,23 @@
-# snhu230
+# snhu250
 
-The gameing
-In general, when developing software for a client, it is important to carefully consider their needs and requirements. This often involves gathering information about the client and their business, as well as understanding the specific goals and objectives of the software project. The client may provide specific requirements for the software, such as specific features or functionality, or they may leave it up to the development team to come up with a design that meets their needs.
+Interpreting user needs and implementing them into a program involves understanding the goals and motivations of the users who will be interacting with the program. This can be achieved through various methods, such as user interviews, user surveys, focus groups, and usability testing.
 
-One way to document the client's requirements and the design of the software is to create a design document. This document can include information such as the overall goals and objectives of the software, the target audience and user needs, the specific features and functionality of the software, and any technical or logistical constraints that must be considered.
+One way to organize and document user needs is by creating "user stories." A user story is a short, simple description of a feature or functionality that a user of the program would like to see. User stories typically follow a specific format, such as: "As a [type of user], I want to [perform some action] so that I can [achieve some goal]." For example: "As a customer, I want to be able to search for products by category so that I can easily find what I'm looking for."
 
-Working through a design document can be helpful in the development process because it provides a clear roadmap for the team to follow. It can also help to ensure that the software meets the needs of the client and the users.
+User stories help to clearly articulate the needs and desires of the users, and they provide a roadmap for the development team to follow as they build out the program.
 
-When designing software, it is important to consider the needs of the users because the ultimate goal of the software is to meet their needs and solve their problems. This involves understanding their goals, motivations, and pain points, and designing the software in a way that addresses these needs.
+In terms of approaching the development of a program, there are many different processes and frameworks that software development teams can use. One popular approach is the Agile methodology, which emphasizes flexibility, collaboration, and rapid iteration. Agile processes often involve working in short cycles (called "sprints") and continuously reassessing and adjusting the priorities and goals of the project as it progresses.
 
-There are many different techniques and strategies that can be used to analyze and design a software application. Some common approaches include user-centered design, which focuses on understanding and meeting the needs of the users, and agile development, which emphasizes flexibility and rapid iteration. Other techniques that may be useful in the design process include prototyping, usability testing, and user research.
+Being a good team member in software development involves a variety of skills and behaviors. Some key qualities include:
+
+Strong communication skills: Being able to effectively communicate with team members, stakeholders, and users is essential for successful collaboration.
+
+Adaptability: The world of software development is constantly changing, and being able to adapt to new technologies and approaches is crucial.
+
+Problem-solving skills: Software development often involves solving complex problems and finding creative solutions.
+
+Attention to detail: It's important to pay attention to the details of the code and the program to ensure that it is stable and performs as expected.
+
+Commitment to quality: A commitment to producing high-quality software is essential for delivering a product that meets the needs of the users.
+
+Teamwork: Working well with others is essential for a successful software development team. This includes being willing to collaborate, listen to others' ideas, and contribute to the team's goals.
